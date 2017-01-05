@@ -55,3 +55,4 @@ export LUAJIT_INC=/usr/local/luajit/include/luajit-2.1
 --add-module=/usr/local/echo-nginx-module-0.60
 
 make & make install
+
